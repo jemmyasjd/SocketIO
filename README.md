@@ -1,4 +1,4 @@
-# Real-Time Chat Application with Socket.IO
+# All You Need to know about Socket-IO
 
 This repository demonstrates how to create a real-time chat application using Node.js and Socket.IO. The application allows users to send and receive messages instantly, leveraging the full-duplex communication capabilities of WebSockets.
 
